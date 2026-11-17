@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-us-building-permits": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-us-building-permits"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
