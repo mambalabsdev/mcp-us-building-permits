@@ -1,7 +1,7 @@
 {
   "name": "mcp-us-building-permits",
   "displayName": "US Building Permits",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for US Building Permits: city permits with contractor, value, and address.",
   "author": {
     "name": "Mamba Labs",
