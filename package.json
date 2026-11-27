@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-us-building-permits",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for US Building Permits: city permits with contractor, value, and address.",
   "type": "module",
   "bin": {
